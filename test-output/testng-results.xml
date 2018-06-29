@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9584" started-at="2018-06-28T06:56:57Z" finished-at="2018-06-28T06:57:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9584" started-at="2018-06-28T06:56:57Z" finished-at="2018-06-28T06:57:07Z">
+      <class name="com.qait.JSautomation.JS1.Testall">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="launchBrowser" is-config="true" duration-ms="5295" started-at="2018-06-28T06:56:57Z" finished-at="2018-06-28T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="attemptclickonbasiccourse()[pri:1, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attemptclickonbasiccourse" duration-ms="471" started-at="2018-06-28T06:57:03Z" finished-at="2018-06-28T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attemptclickonbasiccourse -->
+        <test-method status="PASS" signature="attemptclickonredbox_Errorpage()[pri:2, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attemptclickonredbox_Errorpage" duration-ms="88" started-at="2018-06-28T06:57:03Z" finished-at="2018-06-28T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attemptclickonredbox_Errorpage -->
+        <test-method status="PASS" signature="attemptclickongreenbox_Nextpage()[pri:3, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attemptclickongreenbox_Nextpage" duration-ms="268" started-at="2018-06-28T06:57:03Z" finished-at="2018-06-28T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attemptclickongreenbox_Nextpage -->
+        <test-method status="PASS" signature="attemptproceed_Nocolormatch()[pri:4, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attemptproceed_Nocolormatch" duration-ms="109" started-at="2018-06-28T06:57:03Z" finished-at="2018-06-28T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attemptproceed_Nocolormatch -->
+        <test-method status="PASS" signature="attemptproceed_Colormatch()[pri:5, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attemptproceed_Colormatch" duration-ms="446" started-at="2018-06-28T06:57:04Z" finished-at="2018-06-28T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attemptproceed_Colormatch -->
+        <test-method status="PASS" signature="attempt_nodragdrop_proceed()[pri:6, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attempt_nodragdrop_proceed" duration-ms="117" started-at="2018-06-28T06:57:04Z" finished-at="2018-06-28T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_nodragdrop_proceed -->
+        <test-method status="PASS" signature="attempt_dragdrop_proceed()[pri:7, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attempt_dragdrop_proceed" duration-ms="130" started-at="2018-06-28T06:57:04Z" finished-at="2018-06-28T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_dragdrop_proceed -->
+        <test-method status="PASS" signature="attempt_proceed_directly_without_popup()[pri:8, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attempt_proceed_directly_without_popup" duration-ms="121" started-at="2018-06-28T06:57:04Z" finished-at="2018-06-28T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_proceed_directly_without_popup -->
+        <test-method status="PASS" signature="attempt_proceed_popup_but_notext()[pri:9, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attempt_proceed_popup_but_notext" duration-ms="1203" started-at="2018-06-28T06:57:04Z" finished-at="2018-06-28T06:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_proceed_popup_but_notext -->
+        <test-method status="PASS" signature="attempt_proceed_popup__sometext()[pri:10, instance:com.qait.JSautomation.JS1.Testall@7d9d1a19]" name="attempt_proceed_popup__sometext" duration-ms="1299" started-at="2018-06-28T06:57:06Z" finished-at="2018-06-28T06:57:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attempt_proceed_popup__sometext -->
+      </class> <!-- com.qait.JSautomation.JS1.Testall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
